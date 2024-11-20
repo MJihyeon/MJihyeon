@@ -4,7 +4,10 @@
 ## About Me
 - 🌱 I’m currently learning **Python**, **C++**, and **Unity**.
 - 👀 I’m interested in **Industrial Design** and **3D Artwork**.
-- 📫 How to reach me: [jihyeon7193@cau.ac.kr](mailto:jihyeon7193@cau.ac.kr)
+
+## 📫 Contact Me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jihyeon9438l@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rn.zzh/)
 
 ## 🔧 Skills
 - **Languages**: Python, C++
