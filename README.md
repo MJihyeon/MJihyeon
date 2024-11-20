@@ -18,4 +18,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MJihyeon&show_icons=true&theme=tokyonight)
 
 ## ✨ Fun Fact
-- I love combining futuristic technology with traditional art styles.
+- I love combining futuristic technology with Design.
