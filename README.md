@@ -11,7 +11,7 @@
 
 ## 🔧 Skills
 - **Languages**: Python, C++
-- **Tools**: Cinema 4D, Octane, RedShift, Rhino 3D, Keyshot, Adobe Photoshop, Adobe Illustrator,Adobe Premiere Pro
+- **Tools**: Cinema 4D, Octane, RedShift, Rhino 3D, Keyshot, Adobe Photoshop, Illustrator, Premiere Pro
 
 ## 🌟 Projects
 - 🤖 **AI Home Care Robot**: Designed a AI home care robot with AR/AI elements.
