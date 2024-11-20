@@ -11,8 +11,8 @@
 - **Tools**: Cinema 4D, Octane, RedShift, Rhino 3D, Keyshot, Adobe Photoshop, Adobe Illustrator,Adobe Premiere Pro
 
 ## 🌟 Projects
-- 🎥 **AI Home Care Robot**: Designed a AI home care robot with AR/AI elements.
-- 🕹️ **Speculative Product Design**: Embody an abstract future and design products accordingly.
+- 🤖 **AI Home Care Robot**: Designed a AI home care robot with AR/AI elements.
+- 🎨 **Speculative Product Design**: Embody an abstract future and design products accordingly.
 
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MJihyeon&show_icons=true&theme=tokyonight)
