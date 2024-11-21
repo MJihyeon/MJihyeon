@@ -12,8 +12,20 @@
 - **Tools**: Cinema 4D, Octane, RedShift, Rhino 3D, Keyshot, Adobe Photoshop, Illustrator, Premiere Pro
 
 ## 🌟 Projects
-- 🤖 **AI Home Care Robot**: Designed a care robot with **Rhino** and **Arduino** to demonstrate futuristic concepts using AR/AI elements.
-- 🎨 **Speculative Product Design**: Embodied an abstract future and designed products using **Cinema 4D** and **Octane Render**.
+- 🤖 **AI Home Care Robot**  
+  - **Technologies Used**: Rhino 3D, Arduino, AI/AR Integration for Prototyping  
+  - **Overview**: Collaborated with Everybot, a robotics company, to design and develop a high-fidelity prototype for smart home environments.  
+    - Created a functional hardware-based robot using Arduino.  
+    - Designed the exterior with Rhino 3D and tested AI/AR-based user interfaces.  
+  - **Achievements**:  
+    - Presented research and design outcomes at the **Korea Society of Design Science Conference (November 2023)**.  
+    - Gained positive feedback from industry professionals for the high-fidelity visualization and experimental results.  
+
+- 🎨 **Speculative Product Design**  
+  - **Technologies Used**: Rhino 3D, Cinema 4D, Octane Render  
+  - **Overview**: Envisioned future technologies and societal changes to design innovative products and experiences.  
+    - Modeled detailed designs in Cinema 4D and rendered high-quality simulations using Octane Render.  
+    - Utilized Rhino for initial concept development and refinement of the product.  
 
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MJihyeon&show_icons=true&theme=tokyonight)
