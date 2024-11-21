@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ji-hyeon!
-# 😉 Iam doing **product design** and **art&techology** together.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MJihyeon/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/MJihyeon)
 
 ## About Me
+- 😉 Iam doing **product design** and **art&techology** together.
 - 🌱 I’m currently learning **Python**, **C++**, and **Unity**.
 - 👀 I’m interested in **Industrial Design** and **3D Artwork**.
 - 👯 I’m open to collaborating on creative projects or futuristic designs.
