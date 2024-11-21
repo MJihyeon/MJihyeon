@@ -22,3 +22,4 @@
 
 ## ✨ Fun Fact
 - I love combining futuristic technology with Design.
+- I like spicy tteokbokki.
